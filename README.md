@@ -1,4 +1,4 @@
--- Tugas Besar Analisis Kompleksitas Algoritma --
+<h3> -- Tugas Besar Analisis Kompleksitas Algoritma -- </h3>
 
 Judul Project : SISTEM MANAJEMEN INVENTARIS TOKO ALAT TULIS DENGAN PENGURUTAN INVENTARIS BERDASARKAN HARGA TERENDAH <br/>
 Algoritma yaang digunakan : Merge Sort Iterative & Merge Sort Recursive <br/>
